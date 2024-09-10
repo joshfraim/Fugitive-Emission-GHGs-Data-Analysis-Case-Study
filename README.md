@@ -18,6 +18,6 @@
   - CH4 (Methane): 97.3 kg
   - HFCs (Hydrofluorocarbons): 95.1 kg
   - NF3 (Nitrogen Trifluoride): 92.3 kg
-  ![Screenshot (443)](<img src="https://github.com/username/repository/blob/main/images/screenshot.png" alt="Screenshot" width="500"/>)
+  
 
 
