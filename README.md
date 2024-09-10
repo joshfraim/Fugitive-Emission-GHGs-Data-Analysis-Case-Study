@@ -15,7 +15,7 @@
 * Total fugitive emission GHGs: 689 kg
 * Highest leak asset: HVAC leak asset no. 19192 contributing 627.9 kg (91% of the total).
 * Top 3 highest GHGs:
-  ** CH4 (Methane): 97.3 kg
-  ** HFCs (Hydrofluorocarbons): 95.1 kg
-  ** NF3 (Nitrogen Trifluoride): 92.3 kg
+  - CH4 (Methane): 97.3 kg
+  - HFCs (Hydrofluorocarbons): 95.1 kg
+  - NF3 (Nitrogen Trifluoride): 92.3 kg
 
