@@ -22,3 +22,24 @@
 ### screenshot
 ![cebu_warehouse](https://github.com/user-attachments/assets/ba36e956-4900-4b17-8ce0-cc6125438a27)
 
+2. Facility: JB Factory
+* Total fugitive emission GHGs: 448 kg
+* Highest leak asset:
+  - HVAC leak asset no. 19192 contributing 400.2 kg (89% of the total).
+* Top 3 highest GHGs:
+  - HFCs: 72.8 kg
+  - CO2 (Carbon Dioxide): 60.9 kg
+  - PFCs (Perfluorocarbons): 58 kg
+### screenshot
+![JB_factory](https://github.com/user-attachments/assets/0b2ef44c-3821-46bb-b445-378537e78dd2)
+
+3. Facility: KL Sales Office
+* Total fugitive emission GHGs: 689 kg
+* Highest leak asset:
+  - HVAC leak asset no. 19192 contributing 627.9 kg (91% of the total).
+* Top 3 highest GHGs:
+  - CH4: 97.3 kg
+  - HFCs: 95.1 kg
+  - NF3: 92.3 kg
+### screenshot
+![KL_sales_office](https://github.com/user-attachments/assets/2e7ae7dc-5e6d-4871-9a7a-273f326cfff8)
