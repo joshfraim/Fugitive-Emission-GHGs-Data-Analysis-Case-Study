@@ -87,7 +87,12 @@
   - CO2: 444.9 kg
 ![All_facility](https://github.com/user-attachments/assets/d59aaff7-5181-463c-8880-19456789fcda)
 
-## Valuable Insights:
+## Environmental Impact Analysis
+* Fugitive emissions pose a substantial threat to the environment due to their contribution to global warming and ozone depletion. In particular:
+  - HFCs (Hydrofluorocarbons) are potent GHGs with a high global warming potential (GWP), making them a major contributor to climate change.
+  - CH4 (Methane) is also a highly potent GHG that contributes to the warming of the atmosphere.
+  - Emissions of CO2, while less potent per unit than HFCs or CH4, are still a significant contributor to overall climate change given their quantity.
+## Insights:
 1. Consistent Asset Leakage Across Facilities:
 * The HVAC leak asset no. 19192 consistently accounts for around 90% of the fugitive emissions across all facilities. This suggests a critical need for maintenance or replacement of this specific asset. Reducing leakage from this source can significantly lower overall emissions.
 2. Top GHG Contributors:
@@ -97,19 +102,17 @@
 4. Emission Reduction Focus:
 * HFCs have emerged as the largest contributor across all facilities (503.7 kg), followed by CH4 (445.5 kg). This suggests that replacing or upgrading cooling systems that use HFCs and improving containment of methane emissions could provide the most substantial benefit in emission reductions.
 
-## Recommendations:
+## Recommendations to Mitigate Environmental Impact:
 1. Immediate Inspection and Repair of HVAC Systems:
 * Given that HVAC leak asset no. 19192 is the highest source of emissions, conducting an immediate inspection and repair (or replacement if necessary) across all facilities should be prioritized.
 2. Adoption of Low-GWP Alternatives:
 * For HFCs, the company should consider transitioning to low-GWP (global warming potential) refrigerants or other cooling technologies that produce fewer GHG emissions.
 3. Methane Containment:
 * Since CH4 emissions are a significant contributor, better containment strategies for methane leaks should be explored. Regular inspection and maintenance of equipment responsible for methane leaks could help reduce overall emissions.
-4. Energy Audits and Leak Detection Programs:
-* Implementing energy audits and installing leak detection and repair (LDAR) programs at facilities would help identify other possible sources of emissions and prevent future leaks.
-5. Focus on High-Emission Facilities:
+4. Focus on High-Emission Facilities:
 * Targeting emissions reduction efforts in the highest-emitting facilities (Cebu Warehouse, KL Sales Office, Tuas Warehouse) would yield the greatest reduction in total GHG emissions.
 
-## Economic Impact of Fugitive Emissions on Financial Losses
+## Economic Impact Analysis
 * Fugitive emissions not only contribute to environmental degradation but also have direct financial impacts on a company's operations. These emissions often result from energy inefficiencies, leaks, or poor equipment performance, all of which translate into financial losses due to wasted resources and energy.
 
 ## Insight:
@@ -138,6 +141,10 @@ Regular leaks, such as those of HFCs, also incur additional costs associated wit
 5. Training and Awareness Programs:
   - Training staff on the importance of minimizing emissions and improving energy efficiency can lead to better equipment usage, early detection of leaks, and faster response times. An engaged workforce can reduce overall energy consumption and limit financial losses. Regular training sessions on the maintenance of energy-intensive equipment, leak detection, and proper energy management practices should be prioritized.
 Leverage Renewable Energy:
+
+## Conclusion:
+* The data analysis reveals that addressing fugitive emissions in specific assets and gases can lead to significant reductions in overall GHG output. By prioritizing the HVAC systems and focusing on high-emitting GHGs like HFCs and CH4, the company can achieve its sustainability goals more effectively and reduce its environmental impact. Future efforts should involve continuous monitoring, maintenance, and adopting more environmentally friendly technologies to minimize the company’s fugitive GHG footprint. furthermore, By addressing fugitive emissions through modern equipment upgrades, proactive maintenance programs, energy audits, and leak detection systems, the company can mitigate significant financial losses associated with energy inefficiencies. Not only will this improve environmental compliance, but it will also enhance the bottom line by reducing operational and maintenance costs, improving equipment longevity, and ensuring overall energy efficiency across all facilities.
+
 
 
 
