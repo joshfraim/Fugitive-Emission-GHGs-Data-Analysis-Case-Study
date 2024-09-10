@@ -1,4 +1,4 @@
-# "Comprehensive Analysis of Fugitive GHG Emissions: Mitigating Environmental and Economic Impact"
+# "Comprehensive Analysis of Fugitive GHG Emissions: Assessing and Mitigating the Environmental and Economic Impact"
 
 ## Objective:
 * To analyze and evaluate the levels of fugitive greenhouse gas (GHG) emissions from various facilities of Huanle Noodles between January 1, 2021, and December 1, 2023. The primary aim is to identify the main contributors to fugitive emissions, assess which gases contribute the most to the total emission volume, and understand the financial implications of these emissions as energy losses or inefficiencies. Additionally, the objective is to recommend strategies to mitigate emissions, reduce energy waste, and minimize financial losses.
@@ -11,7 +11,7 @@
 * Provide actionable recommendations to reduce overall emissions and inefficiencies, focusing on major emission contributors to improve both environmental performance and operational cost efficiency.
 
 ## Analysis Summary:
-1. Facility: Cebu Warehouse
+1. Cebu Warehouse
 * Total fugitive emission GHGs: 689 kg
 * Highest leak asset:
   - HVAC leak asset no. 19192 contributing 627.9 kg (91% of the total).
@@ -22,7 +22,7 @@
 ### screenshot
 ![cebu_warehouse](https://github.com/user-attachments/assets/ba36e956-4900-4b17-8ce0-cc6125438a27)
 
-2. Facility: JB Factory
+2. JB Factory
 * Total fugitive emission GHGs: 448 kg
 * Highest leak asset:
   - HVAC leak asset no. 19192 contributing 400.2 kg (89% of the total).
@@ -33,7 +33,7 @@
 ### screenshot
 ![JB_factory](https://github.com/user-attachments/assets/0b2ef44c-3821-46bb-b445-378537e78dd2)
 
-3. Facility: KL Sales Office
+3. KL Sales Office
 * Total fugitive emission GHGs: 689 kg
 * Highest leak asset:
   - HVAC leak asset no. 19192 contributing 627.9 kg (91% of the total).
@@ -44,7 +44,7 @@
 ### screenshot
 ![KL_sales_office](https://github.com/user-attachments/assets/2e7ae7dc-5e6d-4871-9a7a-273f326cfff8)
 
-4. Facility: Manila Sales Office
+4. Manila Sales Office
 * Total fugitive emission GHGs: 448 kg
 * Highest leak asset:
   - HVAC leak asset no. 19192 contributing 400.2 kg (89% of the total).
@@ -55,7 +55,7 @@
 ### screenshot
 ![Manila_sales_office](https://github.com/user-attachments/assets/212a6172-0e79-4504-9ad7-7fa0314f66f0)
 
-5. Facility: Singapore HQ Office
+5. Singapore HQ Office
 * Total fugitive emission GHGs: 448 kg
 * Highest leak asset:
   - HVAC leak asset no. 19192 contributing 400.2 kg (89% of the total).
@@ -66,7 +66,7 @@
 ### screenshot
 ![Singapore_HQ_office](https://github.com/user-attachments/assets/55589141-0d2a-4ef3-a077-6da1b3bda988)
 
-6. Facility: Tuas Warehouse
+6. Tuas Warehouse
 * Total fugitive emission GHGs: 689 kg
 * Highest leak asset:
   - HVAC leak asset no. 19192 contributing 627.9 kg (91% of the total).
@@ -77,7 +77,7 @@
 ### screenshot
 ![Tuas_warehouse](https://github.com/user-attachments/assets/92e1bcab-72f8-4f4a-879e-34b6cc0423e7)
 
-7. Overall: All Facilities
+7. All Facilities
 * Total fugitive emission GHGs: 3,411 kg
 * Highest leak asset:
   - HVAC leak asset no. 19192 contributing 3,084 kg (90% of the total).
