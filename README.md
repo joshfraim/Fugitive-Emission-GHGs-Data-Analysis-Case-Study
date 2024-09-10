@@ -18,5 +18,6 @@
   - CH4 (Methane): 97.3 kg
   - HFCs (Hydrofluorocarbons): 95.1 kg
   - NF3 (Nitrogen Trifluoride): 92.3 kg
+  ![Screenshot (443)](https://github.com/joshfraim/Interactive-Ecommerce-Sales-Insights-with-PostgreSQL-and-Tableau/assets/104566570/15136290-3110-4f7f-abb7-b01ad43ed386)
 
 
