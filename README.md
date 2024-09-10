@@ -1,5 +1,7 @@
 # "Comprehensive Analysis of Fugitive GHG Emissions: Assessing and Mitigating the Environmental and Economic Impact"
 
+**Disclaimer**: The data utilized for this analysis was provided by the hiring team specifically for the purpose of skill assessment.
+
 ## Objective:
 * To analyze and evaluate the levels of fugitive greenhouse gas (GHG) emissions from various facilities of Huanle Noodles between January 1, 2021, and December 1, 2023. The primary aim is to identify the main contributors to fugitive emissions, assess which gases contribute the most to the total emission volume, and understand the financial implications of these emissions as energy losses or inefficiencies. Additionally, the objective is to recommend strategies to mitigate emissions, reduce energy waste, and minimize financial losses.
 
@@ -144,6 +146,17 @@ Leverage Renewable Energy:
 
 ## Conclusion:
 * The data analysis reveals that addressing fugitive emissions in specific assets and gases can lead to significant reductions in overall GHG output. By prioritizing the HVAC systems and focusing on high-emitting GHGs like HFCs and CH4, the company can achieve its sustainability goals more effectively and reduce its environmental impact. Future efforts should involve continuous monitoring, maintenance, and adopting more environmentally friendly technologies to minimize the company’s fugitive GHG footprint. furthermore, By addressing fugitive emissions through modern equipment upgrades, proactive maintenance programs, energy audits, and leak detection systems, the company can mitigate significant financial losses associated with energy inefficiencies. Not only will this improve environmental compliance, but it will also enhance the bottom line by reducing operational and maintenance costs, improving equipment longevity, and ensuring overall energy efficiency across all facilities.
+
+## Appendices
+### Technology Used: 
+* This analysis has been accomplished using Pandas for data manipulation and exploratory data analysis (EDA), and Tableau for visualization.
+### Resources: 
+* https://www.thermofisher.com/blog/identifying-threats/what-are-fugitive-emissions-why-do-they-matter/
+* https://www.climate-chance.org/wp-content/uploads/2019/03/new-fugitive-emissions-a-blind-spot-in-the-fight-against-climate-change.pdf
+* https://www.climate-chance.org/wp-content/uploads/2019/03/new-fugitive-emissions-a-blind-spot-in-the-fight-against-climate-change.pdf
+* https://www.sciencedirect.com/science/article/pii/B9780323919289000013
+
+
 
 
 
