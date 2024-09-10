@@ -1,6 +1,7 @@
 # "Comprehensive Analysis of Fugitive GHG Emissions and Economic Impact: Mitigating Environmental and Financial Inefficiencies"
 
-## Objective: To analyze and evaluate the levels of fugitive greenhouse gas (GHG) emissions from various facilities of Huanle Noodles between January 1, 2021, and December 1, 2023. The primary aim is to identify the main contributors to fugitive emissions, assess which gases contribute the most to the total emission volume, and understand the financial implications of these emissions as energy losses or inefficiencies. Additionally, the objective is to recommend strategies to mitigate emissions, reduce energy waste, and minimize financial losses.
+## Objective:
+* To analyze and evaluate the levels of fugitive greenhouse gas (GHG) emissions from various facilities of Huanle Noodles between January 1, 2021, and December 1, 2023. The primary aim is to identify the main contributors to fugitive emissions, assess which gases contribute the most to the total emission volume, and understand the financial implications of these emissions as energy losses or inefficiencies. Additionally, the objective is to recommend strategies to mitigate emissions, reduce energy waste, and minimize financial losses.
 
 ## Goal:
 
