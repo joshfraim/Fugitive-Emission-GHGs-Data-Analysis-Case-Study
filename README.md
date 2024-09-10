@@ -9,3 +9,13 @@
 * Pinpoint the specific leak assets that contribute the most emissions and potential financial losses.
 * Analyze the composition of GHGs per facility to determine the most problematic gases and estimate the associated energy and financial losses.
 * Provide actionable recommendations to reduce overall emissions and inefficiencies, focusing on major emission contributors to improve both environmental performance and operational cost efficiency.
+
+## Analysis Summary:
+1. Facility: Cebu Warehouse
+* Total fugitive emission GHGs: 689 kg
+* Highest leak asset: HVAC leak asset no. 19192 contributing 627.9 kg (91% of the total).
+* Top 3 highest GHGs:
+** CH4 (Methane): 97.3 kg
+** HFCs (Hydrofluorocarbons): 95.1 kg
+** NF3 (Nitrogen Trifluoride): 92.3 kg
+
