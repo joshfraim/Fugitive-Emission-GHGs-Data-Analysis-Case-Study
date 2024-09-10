@@ -13,7 +13,8 @@
 ## Analysis Summary:
 1. Facility: Cebu Warehouse
 * Total fugitive emission GHGs: 689 kg
-* Highest leak asset: HVAC leak asset no. 19192 contributing 627.9 kg (91% of the total).
+* Highest leak asset:
+  - HVAC leak asset no. 19192 contributing 627.9 kg (91% of the total).
 * Top 3 highest GHGs:
   - CH4 (Methane): 97.3 kg
   - HFCs (Hydrofluorocarbons): 95.1 kg
